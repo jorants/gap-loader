@@ -8,7 +8,7 @@ def readme():
 
 setup(
     name='gap_loader',
-    version='0.1',
+    version='0.3',
     description='Import hook for GAP files in SAGE math.',
     long_description=readme(),
     long_description_content_type='text/markdown',

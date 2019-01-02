@@ -1,5 +1,4 @@
 #! sage
-
 import gap_loader
 import mycode
 
